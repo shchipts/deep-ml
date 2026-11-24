@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:03:39.304Z",
+  "generated_at": "2026-11-24T12:07:55.836Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -44,6 +44,17 @@
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-11-24T12:07:55.207Z",
       "last_pushed_at": "2026-11-24T12:07:55.207Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-11-24T12:12:11.632Z",
+      "last_pushed_at": "2026-11-24T12:12:11.632Z"
     }
   }
 }
