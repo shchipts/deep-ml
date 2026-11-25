@@ -8,6 +8,12 @@ Unsupervised learning from Hands-On Machine Learning as practitioners use it: ch
 python scaffold.py
 ```
 
+### Notebook (optional)
+
+```bash
+jupyter notebook notebook.ipynb
+```
+
 ## Steps
 
 - [x] **1.** blobs_data
